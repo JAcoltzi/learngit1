@@ -1,1 +1,1 @@
-prueba2
+dos.txt Se hizo un cambio para la prueba de resolucion de conflictos
